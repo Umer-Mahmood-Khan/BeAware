@@ -17,37 +17,24 @@ Welcome to the BeAware user manual, your guide to navigating our innovative plat
 •	Upon completion, click on "Create Account." 
 •	An email containing a verification link will be dispatched to your registered email address. 
 •	Access your email inbox, locate the verification email, and click on the provided link to verify your account. 
- 
   
- 
- 
- 
- 
- 
-Logging In 
-
-  
+## Logging In:
 
 •	Once your email address is successfully verified, return to the BeAware website. 
 •	Navigate to the "Log In" section and enter your registered email and password. 
 •	Proceed to click on "Log In" to gain access to your BeAware account. 
 •	After logging in you will be directed to Set Up Stream screen. 
  
-Dashboard Overview: 
+## Dashboard Overview: 
 
 Upon successful login, you will be directed to set up your stream and then you can access your  personalized dashboard, offering a plethora of functionalities:
  
-Stream Management: 
+## Stream Management: 
 
 •	Set Up a Stream: Enter pertinent details such as the stream name, logo, preferred color for stream and upload a profile picture. 
- 
-    
- 
-
- 
 •	Delete a Stream: Select the stream you wish to remove from the dashboard and proceed to click on the "Delete" button for seamless removal.
  
-Stream Page:
+## Stream Page:
  
 •	The Stream Page is where users can explore and engage with all the streams available on the platform. 
 •	Hovering over a stream tile will display additional details about the stream, such as the stream name, and color hex code. 
@@ -56,79 +43,47 @@ Stream Page:
 •	Users can scan this QR code using their mobile device's camera or a QR code scanner app. 
 •	Scanning the QR code will instantly redirect users to the live stream, allowing them to join and participate. 
  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Customize Stream 
+## Customize Stream :
 •	Edit your stream by clicking the Manage Streams button, where you can modify the stream name, color scheme, and logo. 
 •	Click on the respective fields to make changes, ensuring to save your updates before exiting the customization screen. 
 •	Experiment with different colors and logos to personalize your stream and make it uniquely yours. 
- 
-  
- 
-
-
-
-
-
 These are the following parameters which you edit in your stream.
 
- 
-    
-Subscription Features: 
+## Subscription Features: 
 
 Explore the array of features offered under our Basic and Premium subscription plans, each designed to enhance your streaming experience. 
 
-Stream Analytics: 
+## Stream Analytics: 
 
 •	Stay informed about your streaming endeavors by accessing comprehensive analytics, including stream duration metrics, allowing you to gauge performance and audience engagement effectively. 
 
- 
-
-Account Management:
+ ## Account Management:
  
 •	Delete Account: If needed, users can delete their accounts entirely. Simply navigate to the "Delete Account" section and follow the on-screen instructions. 
 
-Download Materials: 
+## Download Materials: 
 
 •	Post-stream, users have the convenience of accessing and downloading materials uploaded by the instructor for further reference or review. 
  
-Profile Management: 
+## Profile Management: 
 
 •	Viewing Profile Information: Navigate to the profile screen to access your personal information. Here, you can view your email address and the streams you have joined, providing you with a quick overview of your account status. 
 •	Updating Personal Information: To update your personal information, navigate to the designated section within the profile screen. Here, you can edit your email address and any other relevant details to ensure your profile is up to date. 
 •	Managing Profile Picture: Users can upload or change their profile picture directly from the profile screen. Simply click on the profile picture icon, and you'll be prompted to upload a new image from your device. 
 •	Deleting Account: Should you wish to delete your account, navigate to the account deletion screen. Here, you'll be asked to confirm your decision before proceeding. Please note that account deletion is irreversible and will result in the permanent loss of all associated data. 
 
+# Troubleshooting and Support
 
-
-Troubleshooting and Support 
-
-Troubleshooting is essential for addressing any issues users may encounter while using BeAware. Below are common errors users may face along with their solutions: 
+## Troubleshooting is essential for addressing any issues users may encounter while using BeAware. Below are common errors users may face along with their solutions: 
 
 •	Email ID format is incorrect: 
 •	Solution: Ensure your email address includes the "@" symbol followed by the domain name (e.g., example@example.com). 
-
-  
 •	Password is too short (less than 6 characters): 
-•	Solution: Choose a password that is at least 6 characters long for security purposes. 
-
-  
+•	Solution: Choose a password that is at least 6 characters long for security purposes.  
 •	Stream name contains spaces: 
-•	Solution: Stream names cannot contain spaces. Please remove any spaces and try again. 
-   
+•	Solution: Stream names cannot contain spaces. Please remove any spaces and try again.   
 •	Attempting to create a stream without uploading an image: 
-•	Solution: Every stream must have an associated image. Please upload an image for your stream before proceeding. 
-
-  
+•	Solution: Every stream must have an associated image. Please upload an image for your stream before proceeding.   
 •	Entering an invalid hexadecimal color code: 
 •	Solution: Use the color picker tool provided to select a valid hexadecimal color code. Click on the color picker to choose your desired color. 
   
