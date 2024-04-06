@@ -10,18 +10,18 @@ The BeAware project is tailored to assist individuals with hearing challenges. O
 Welcome to the BeAware user manual, your guide to navigating our innovative platform where empowerment meets accessibility. Within these pages, you'll find comprehensive instructions and insights to help you harness the full potential of our website. At BeAware, we're committed to breaking down communication barriers and fostering inclusivity for all users. Whether you're discovering our unique features or seeking assistance, this manual is designed to accompany you every step of the way. We're excited to embark on this journey with you as we revolutionize online connectivity and interaction. 
 
 ## Account Creation 
-•	Visit the official BeAware website and locate the "Sign Up" button. 
-•	Fill in the required information including your desired username, email address, and password. 
-•	Upon completion, click on "Create Account." 
-•	An email containing a verification link will be dispatched to your registered email address. 
-•	Access your email inbox, locate the verification email, and click on the provided link to verify your account. 
+-	Visit the official BeAware website and locate the "Sign Up" button. 
+-	Fill in the required information including your desired username, email address, and password. 
+-	Upon completion, click on "Create Account." 
+-	An email containing a verification link will be dispatched to your registered email address. 
+-	Access your email inbox, locate the verification email, and click on the provided link to verify your account. 
   
 ## Logging In
 
-•	Once your email address is successfully verified, return to the BeAware website. 
-•	Navigate to the "Log In" section and enter your registered email and password. 
-•	Proceed to click on "Log In" to gain access to your BeAware account. 
-•	After logging in you will be directed to Set Up Stream screen. 
+-	Once your email address is successfully verified, return to the BeAware website. 
+-	Navigate to the "Log In" section and enter your registered email and password. 
+-	Proceed to click on "Log In" to gain access to your BeAware account. 
+-	After logging in you will be directed to Set Up Stream screen. 
  
 ## Dashboard Overview 
 
@@ -29,22 +29,22 @@ Upon successful login, you will be directed to set up your stream and then you c
  
 ## Stream Management
 
-•	Set Up a Stream: Enter pertinent details such as the stream name, logo, preferred color for stream and upload a profile picture. 
-•	Delete a Stream: Select the stream you wish to remove from the dashboard and proceed to click on the "Delete" button for seamless removal.
+-	Set Up a Stream: Enter pertinent details such as the stream name, logo, preferred color for stream and upload a profile picture. 
+-	Delete a Stream: Select the stream you wish to remove from the dashboard and proceed to click on the "Delete" button for seamless removal.
  
 ## Stream Page
  
-•	The Stream Page is where users can explore and engage with all the streams available on the platform. 
-•	Hovering over a stream tile will display additional details about the stream, such as the stream name, and color hex code. 
-•	This feature allows users to quickly preview streams and decide which ones they want to join or explore further. 
-•	When a stream is live, a QR code is automatically generated for easy access. 
-•	Users can scan this QR code using their mobile device's camera or a QR code scanner app. 
-•	Scanning the QR code will instantly redirect users to the live stream, allowing them to join and participate. 
+-	The Stream Page is where users can explore and engage with all the streams available on the platform. 
+-	Hovering over a stream tile will display additional details about the stream, such as the stream name, and color hex code. 
+-	This feature allows users to quickly preview streams and decide which ones they want to join or explore further. 
+-	When a stream is live, a QR code is automatically generated for easy access. 
+-	Users can scan this QR code using their mobile device's camera or a QR code scanner app. 
+-	Scanning the QR code will instantly redirect users to the live stream, allowing them to join and participate. 
  
 ## Customize Stream 
-•	Edit your stream by clicking the Manage Streams button, where you can modify the stream name, color scheme, and logo. 
-•	Click on the respective fields to make changes, ensuring to save your updates before exiting the customization screen. 
-•	Experiment with different colors and logos to personalize your stream and make it uniquely yours. 
+-	Edit your stream by clicking the Manage Streams button, where you can modify the stream name, color scheme, and logo. 
+-	Click on the respective fields to make changes, ensuring to save your updates before exiting the customization screen. 
+-	Experiment with different colors and logos to personalize your stream and make it uniquely yours. 
 These are the following parameters which you edit in your stream.
 
 ## Subscription Features
@@ -53,15 +53,15 @@ Explore the array of features offered under our Basic and Premium subscription p
 
 ## Stream Analytics
 
-•	Stay informed about your streaming endeavors by accessing comprehensive analytics, including stream duration metrics, allowing you to gauge performance and audience engagement effectively. 
+-	Stay informed about your streaming endeavors by accessing comprehensive analytics, including stream duration metrics, allowing you to gauge performance and audience engagement effectively. 
 
  ## Account Management
  
-•	Delete Account: If needed, users can delete their accounts entirely. Simply navigate to the "Delete Account" section and follow the on-screen instructions. 
+-	Delete Account: If needed, users can delete their accounts entirely. Simply navigate to the "Delete Account" section and follow the on-screen instructions. 
 
 ## Download Materials 
 
-•	Post-stream, users have the convenience of accessing and downloading materials uploaded by the instructor for further reference or review. 
+-	Post-stream, users have the convenience of accessing and downloading materials uploaded by the instructor for further reference or review. 
  
 # Profile Management
 
